@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неправильно!</string>
+    <string name="next_button">NEXT</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+    <string name="question_australia">Австралия - самый маленький континент.</string>
+    <string name="question_oceans">Тихий океан самый большой по размеру.</string>
+    <string name="question_russia">Питер столица России</string>
+    <string name="question_africa">Мадагаскар - это остров</string>
+    <string name="question_americas">Амазонка - самая большая река в Америке</string>
+    <string name="question_asia">Часть России находится в Азии</string>
+    <string name="previous_button">PREV</string>
+</resources>
